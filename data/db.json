@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dapibus laoreet elit, a tincidunt sem euismod at. Etiam sit amet est sit amet massa venenatis hendrerit nec ac lacus. Mauris facilisis pellentesque quam sed luctus. Cras ut eros orci. Nullam ac varius erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi et tortor ullamcorper dolor pellentesque bibendum in sit amet lacus. Curabitur efficitur nulla non lectus mattis placerat. Vivamus vulputate id nulla et suscipit. Integer volutpat varius pretium. Proin pellentesque accumsan orci quis mollis. Phasellus vel tortor quis leo fermentum convallis nec nec quam. Ut ut neque lacinia, faucibus mauris quis, ornare augue. Quisque ac nisl et metus luctus porttitor. Morbi ligula tortor, rhoncus ac felis non, aliquet molestie orci. Nam in bibendum nulla",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "top 5 CSS tips",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dapibus laoreet elit, a tincidunt sem euismod at. Etiam sit amet est sit amet massa venenatis hendrerit nec ac lacus. Mauris facilisis pellentesque quam sed luctus. Cras ut eros orci. Nullam ac varius erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi et tortor ullamcorper dolor pellentesque bibendum in sit amet lacus. Curabitur efficitur nulla non lectus mattis placerat. Vivamus vulputate id nulla et suscipit. Integer volutpat varius pretium. Proin pellentesque accumsan orci quis mollis. Phasellus vel tortor quis leo fermentum convallis nec nec quam. Ut ut neque lacinia, faucibus mauris quis, ornare augue. Quisque ac nisl et metus luctus porttitor. Morbi ligula tortor, rhoncus ac felis non, aliquet molestie orci. Nam in bibendum nulla",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ] 
+        } 
+    ]
+}
